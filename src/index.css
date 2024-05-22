@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #232428;
+    height: 100vh;
+    width: 100%;
+    
+}
+.sec-icon::before {
+    content: "";
+    position: absolute;
+    height: 1px;
+    left: -70px;
+    margin-top: -5.5px;
+    top: 60%;
+    background: #333333;
+    width: 50px;
+}
+
+.sec-icon::after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    right: -70px;
+    margin-top: -5.5px;
+    top: 60%;
+    background: #333;
+    width: 50px;
+}
+
+.service-card::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(#0dcaf0, rgb(255, 23, 131));
+    position: absolute;
+    left: 0%;
+    top: -98%;
+    z-index: -2;
+    transition: all 0.4s cubic-bezier(0.77, -0.04, 0, 0.99);
+}
+
+.service-card:hover:after {
+    top: 0%;
+}
