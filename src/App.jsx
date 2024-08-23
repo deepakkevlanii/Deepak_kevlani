@@ -3,7 +3,7 @@ import SideBar from './Components/SideBar';
 import AboutMe from './Components/AboutMe';
 import Skill from './Components/Skill';
 import Services from './Components/Services';
-import { ContactUs } from './Components/Contact';
+import ContactUs from './Components/Contact';
 
 function App() {
   return (
