@@ -31,6 +31,14 @@ const Project = () => {
       codeUrl: "https://github.com/DEEPAK-DEV2024/WeatherApp",
     },
     {
+      title: "Animated Website",
+      description:
+        "An engaging website built with HTML, CSS, and JavaScript, featuring dynamic animations powered by GSAP. Smooth transitions and interactive elements enhance user experience, making navigation enjoyable across all devices.",
+      imageUrl: "/images/animateweb.png",
+      liveUrl: "https://deepak-dev2024.github.io/animated-website/",
+      codeUrl: "https://github.com/DEEPAK-DEV2024/animated-website",
+    },
+    {
       title: "PW Skill Clone",
       description:
         "A responsive website built with React and Tailwind CSS, featuring form validation using React Hook Form for efficient and user-friendly data handling and validation.",
