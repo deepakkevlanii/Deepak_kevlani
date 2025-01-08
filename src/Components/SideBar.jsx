@@ -37,7 +37,7 @@ function SideBar() {
           <SocailIcon icon={<IoLogoWhatsapp />} url='https://wa.me/917414857161' color='#25D366' />
           <SocailIcon icon={<FaLinkedin />} url='https://www.linkedin.com/in/deepak-kevlani-3514712b3' color='#0077B5' />
           <SocailIcon icon={<BiLogoGmail />} url='mailto:deepak.kevlanii@gmail.com' color='#EA4335' />
-          <SocailIcon icon={<FaGithub />} url='https://github.com/DEEPAK-DEV2024' color='white' />
+          <SocailIcon icon={<FaGithub />} url='https://github.com/deepakkevlanii' color='white' />
         </div>
       </div>
     </div>
