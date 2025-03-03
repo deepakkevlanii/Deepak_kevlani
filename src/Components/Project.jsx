@@ -10,7 +10,7 @@ const Project = () => {
       imageUrl:
         "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66c829ec35d6ed00088e3d75/screenshot_2024-08-23-06-20-06-0000.webp&fit=cover&h=500&q=40&w=800",
       liveUrl: "https://deepakkevlani.netlify.app",
-      codeUrl: "https://github.com/DEEPAK-DEV2024/Deepak_kevlani",
+      codeUrl: "https://github.com/deepakkevlanii/Deepak_kevlani",
     },
     {
       title: "MERN Chat App",
@@ -20,23 +20,23 @@ const Project = () => {
         "https://app.netlify.com/.netlify/images?url=https://d33wubrfki0l68.cloudfront.net/66e1b9c1d9435a26e8c59bba/screenshot_2024-09-11-15-40-25-0000.webp&fit=cover&h=500&q=40&w=800",
 
       liveUrl: "https://talk-to-everyone.netlify.app",
-      codeUrl: "https://github.com/DEEPAK-DEV2024/MERN_CHAT_APP_FRONTEND",
+      codeUrl: "https://github.com/deepakkevlanii/MERN_CHAT_APP_FRONTEND",
     },
     {
       title: "Weather App",
       description:
         "A sleek weather app built with React and Tailwind CSS, fetching real-time weather data using the Weather API. It provides accurate forecasts and current conditions for any location.",
       imageUrl: "/images/weatherimg.png",
-      liveUrl: "https://deepak-dev2024.github.io/WeatherApp/",
-      codeUrl: "https://github.com/DEEPAK-DEV2024/WeatherApp",
+      liveUrl: "https://deepakkevlanii.github.io/WeatherApp/",
+      codeUrl: "https://github.com/deepakkevlanii/WeatherApp",
     },
     {
       title: "Animated Website",
       description:
         "An engaging website built with HTML, CSS, and JavaScript, featuring dynamic animations powered by GSAP. Smooth transitions and interactive elements enhance user experience, making navigation enjoyable across all devices.",
       imageUrl: "/images/animateweb.png",
-      liveUrl: "https://deepak-dev2024.github.io/animated-website/",
-      codeUrl: "https://github.com/DEEPAK-DEV2024/animated-website",
+      liveUrl: "https://deepakkevlanii.github.io/animated-website/",
+      codeUrl: "https://github.com/deepakkevlanii/animated-website",
     },
     {
       title: "PW Skill Clone",
