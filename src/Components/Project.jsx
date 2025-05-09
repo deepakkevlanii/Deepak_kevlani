@@ -50,7 +50,7 @@ const Project = () => {
   ];
 
   return (
-    <div className="flex justify-between px-12 py-5 flex-wrap gap-8">
+    <div className="flex justify-start px-12 py-5 flex-wrap gap-8">
       {projects.map((project, index) => (
         <ProjectCard key={index} project={project} />
       ))}

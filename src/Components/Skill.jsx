@@ -8,6 +8,7 @@ import {
   SiVercel,
   SiAdobephotoshop,
   SiMongodb,
+  SiMysql,SiLaravel 
 } from "react-icons/si";
 import {
   faHtml5,
@@ -27,13 +28,16 @@ const skills = [
   { icon: FaBootstrap, color: "#7952B3", label: "Bootstrap" },
   { icon: SiTailwindcss, color: "#38B2AC", label: "Tailwind CSS" },
   { icon: SiMongodb, color: "#47A248", label: "MongoDB" },
-  { icon: SiExpress, color: "#000000", label: "Express.js" },
+  { icon: SiMysql, color: "#00618A", label: "MySQL" },
   { icon: faReact, color: "#61DAFB", label: "React.js" },
   { icon: faNodeJs, color: "#339933", label: "Node.js" },
+  { icon: SiExpress, color: "#000000", label: "Express.js" },
+  { icon: SiLaravel, color: "#FF2D20", label: "Laravel" },
   { icon: faGitAlt, color: "#F05032", label: "Git" },
   { icon: faGithub, color: "#181717", label: "GitHub" },
-  { icon: SiVercel, color: "#dadada", label: "Vercel" },
-  { icon: SiAdobephotoshop, color: "#001d34", label: "Photoshop" },
+  { icon: SiVercel, color: "#dadada", label: "Vercel" }
+
+  // { icon: SiAdobephotoshop, color: "#001d34", label: "Photoshop" },
 ];
 
 function Skill() {

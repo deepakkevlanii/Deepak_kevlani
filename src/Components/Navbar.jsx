@@ -80,7 +80,7 @@ const Navbar = () => {
             : "hover:text-blue-400"
         } transition-colors duration-300 ease-in-out`}
       >
-        Contact Us
+        Contact Me
         <span
           className={`block h-0.5 ${
             location.pathname === "/contactus"
